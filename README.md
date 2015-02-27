@@ -12,6 +12,7 @@ This document is open for participation and changes should always be handled wit
 - The more meetup organizers join the organization of upcoming meetups the better but the organizational tasks should be distributed in an open discussion
 - The more meetup organizers join an actual meetup the better but at least one meetup organizer needs to be present on a meetup event
 - Usually the meetup organizers will meet a few days after a meetup to discuss open points and plan upcoming events
+
 ### Presenters
 - Presenters are very welcome to submit their topic to the meetup organization group for discussion
 - Generally topics should include the Framework Angular.js from Google to some extent
