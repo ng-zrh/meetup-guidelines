@@ -15,10 +15,10 @@ This document is open for participation and changes should always be handled wit
 
 ### Presenters
 - Presenters are very welcome to submit their topic to the meetup organization group for discussion
-- Generally topics should include the Framework Angular.js from Google to some extent
+- Generally topics should include the Framework Angular from Google to some extent
 - We are looking for educational talks where members of the meetup group will learn new techniques, technologies, paradigms and the like
-- We are also looking for project presentations where members will see an Angular.js project in a real life scenario
+- We are also looking for project presentations where members will see an Angular project in a real life scenario
 - Project presentations should be of technical nature and members should be able to see behind the scenes of the project
-- Project presentations should also demonstrate technical difficulties and challenges faced with the Angular.js Framework during the project and how they were mastered
+- Project presentations should also demonstrate technical difficulties and challenges faced with the Angular Framework during the project and how they were mastered
 - Project presentations should NOT be marketing events and therefore advertisement should be limited to the technical demonstration of the product / project.
 - The following information should always be present in a proposal for presentation: Presenters (who will present? Name, short bio), Level (What's the target group? Beginner, Intermediate, Advanced?), Title (the title of the presentation), Topic (a brief summary of that the members can expect from the presentation)
